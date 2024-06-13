@@ -27,15 +27,6 @@
 
 ## Preview
 
-<p align="center">
-    <img width="1090" src="./assets/images/preview1.png">
-    <img width="1090" src="./assets/images/preview2.png">
-    <img width="1090" src="./assets/images/preview3.png">
-    <img width="1090" src="./assets/images/preview4.png">
-    <br>
-    Live Demo
-
-</p>
 
 ## Demo
 
